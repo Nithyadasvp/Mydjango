@@ -1,0 +1,1 @@
+web gunicorn vppro.wsgi:application --log-file -
